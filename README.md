@@ -16,21 +16,15 @@
 
 ### 🌸 About Me
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>I like to think of myself as a creative soul wrapped in developer logic.</li>
-        <li>I love designing clean, intuitive user interfaces — where beauty meets functionality.</li>
-        <li>I completed an intensive Full Stack Web Development course at <b>Boolean</b>, where I learned how to build full applications from backend to frontend.</li>
-        <li>Later, I specialized in <b>UI/UX Design</b>, because crafting beautiful and effective interfaces is my comfort zone.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://sdmntprnortheu.oaiusercontent.com/files/00000000-d8b8-61f4-85a8-f5fe273d0955/raw?se=2025-06-28T12%3A22%3A48Z&sp=r&sv=2024-08-04&sr=b&scid=c8b82ec8-e25f-5ec9-8dcd-3a240444fec9&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-27T20%3A10%3A27Z&ske=2025-06-28T20%3A10%3A27Z&sks=b&skv=2024-08-04&sig=92hoge694m8SI36uyv5CMmXncJKc6Q6PjPQV/AmjEio%3D" alt="about me gif" width="180" />
-    </td>
-  </tr>
-</table>
+<div style="text-align:left;">
+  <img src="https://sdmntprnortheu.oaiusercontent.com/files/00000000-d8b8-61f4-85a8-f5fe273d0955/raw?se=2025-06-28T12%3A22%3A48Z&sp=r&sv=2024-08-04&sr=b&scid=c8b82ec8-e25f-5ec9-8dcd-3a240444fec9&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-27T20%3A10%3A27Z&ske=2025-06-28T20%3A10%3A27Z&sks=b&skv=2024-08-04&sig=92hoge694m8SI36uyv5CMmXncJKc6Q6PjPQV/AmjEio%3D" alt="about me" width="320" align="right" style="margin-left: 24px; margin-bottom: 12px;" />
+  <ul>
+    <li>I like to think of myself as a creative soul wrapped in developer logic.</li>
+    <li>I love designing clean, intuitive user interfaces — where beauty meets functionality.</li>
+    <li>I completed an intensive Full Stack Web Development course at <b>Boolean</b>, where I learned how to build full applications from backend to frontend.</li>
+    <li>Later, I specialized in <b>UI/UX Design</b>, because crafting beautiful and effective interfaces is my comfort zone.</li>
+  </ul>
+</div>
 
 ---
 
