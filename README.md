@@ -1,3 +1,8 @@
+<!-- Import Google Fonts: Nunito -->
+<link href="https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap" rel="stylesheet">
+
+<div align="center" style="max-width: 700px; margin: auto; font-family: 'Nunito', Arial, sans-serif; font-size: 20px;">
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=35&pause=1000&color=67A759&center=true&vCenter=true&width=435&lines=Hi+there!++;I'm+Arianna+Cristiani+" alt="Typing SVG" /></a>
 </p>
@@ -5,24 +10,29 @@
 <p align="center">
 🎨 Passionate about creativity <br/>
 💻 Full Stack Web Developer & UI/UX Designer <br/>
-📔 Currently working on a digital journal app
 </p>
 
----
+<hr style="height:1px;border:none;color:#eaeaea;background-color:#eaeaea;" />
 
 ### 🌸 About Me
 
-I like to think of myself as a creative soul wrapped in developer logic.  
-I love designing clean, intuitive user interfaces — where beauty meets functionality.
+<div style="position: relative; min-height: 180px;">
+  <img src="https://i.pinimg.com/originals/07/89/c2/0789c202335c03dd9175faa2f57981e7.gif" alt="about me gif" width="180" style="float:right; border-radius:12px; box-shadow:0 2px 8px #eaeaea; margin-left:24px; margin-bottom:8px;" />
+  <ul style="text-align:left; max-width: 100%; margin:auto;">
+    <li>I like to think of myself as a creative soul wrapped in developer logic.</li>
+    <li>I love designing clean, intuitive user interfaces — where beauty meets functionality.</li>
+    <li>I completed an intensive Full Stack Web Development course at <b>Boolean</b>, where I learned how to build full applications from backend to frontend.</li>
+    <li>Later, I specialized in <b>UI/UX Design</b>, because crafting beautiful and effective interfaces is my comfort zone.</li>
+  </ul>
+</div>
 
-I completed an intensive Full Stack Web Development course at **Boolean**, where I learned how to build full applications from backend to frontend.  
-Later, I specialized in **UI/UX Design**, because crafting beautiful and effective interfaces is my comfort zone 🧘‍♀️.
-
----
+<hr style="height:1px;border:none;color:#eaeaea;background-color:#eaeaea;" />
 
 ### 🤓 Tech Stack
 
 #### Languages & Frameworks:
+
+<div style="max-width: 600px; margin:auto;">
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
@@ -42,17 +52,19 @@ Later, I specialized in **UI/UX Design**, because crafting beautiful and effecti
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
----
+</div>
+
+<hr style="height:1px;border:none;color:#eaeaea;background-color:#eaeaea;" />
 
 ### ✨ Currently Working On
 
 📝 A personal project: a **digital journal** that blends functionality with delightful UI — built using **React**, **TypeScript**, and a touch of design thinking.
 
----
+<hr style="height:1px;border:none;color:#eaeaea;background-color:#eaeaea;" />
 
 ### 💌 Let’s Connect!
 
 Wanna talk code, design, or just say hi?  
 Reach out on [LinkedIn](#) _(https://www.linkedin.com/in/arianna-cristiani-20552517b/)_ or browse through my projects here on GitHub!
 
----
+</div>
