@@ -12,21 +12,27 @@
 💻 Full Stack Web Developer & UI/UX Designer <br/>
 </p>
 
-<hr style="height:1px;border:none;color:#eaeaea;background-color:#eaeaea;" />
+---
 
 ### 🌸 About Me
 
-<div style="position: relative; min-height: 180px;">
-  <img src="https://i.pinimg.com/originals/07/89/c2/0789c202335c03dd9175faa2f57981e7.gif" alt="about me gif" width="180" style="float:right; border-radius:12px; box-shadow:0 2px 8px #eaeaea; margin-left:24px; margin-bottom:8px;" />
-  <ul style="text-align:left; max-width: 100%; margin:auto;">
-    <li>I like to think of myself as a creative soul wrapped in developer logic.</li>
-    <li>I love designing clean, intuitive user interfaces — where beauty meets functionality.</li>
-    <li>I completed an intensive Full Stack Web Development course at <b>Boolean</b>, where I learned how to build full applications from backend to frontend.</li>
-    <li>Later, I specialized in <b>UI/UX Design</b>, because crafting beautiful and effective interfaces is my comfort zone.</li>
-  </ul>
-</div>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>I like to think of myself as a creative soul wrapped in developer logic.</li>
+        <li>I love designing clean, intuitive user interfaces — where beauty meets functionality.</li>
+        <li>I completed an intensive Full Stack Web Development course at <b>Boolean</b>, where I learned how to build full applications from backend to frontend.</li>
+        <li>Later, I specialized in <b>UI/UX Design</b>, because crafting beautiful and effective interfaces is my comfort zone.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/07/89/c2/0789c202335c03dd9175faa2f57981e7.gif" alt="about me gif" width="180" />
+    </td>
+  </tr>
+</table>
 
-<hr style="height:1px;border:none;color:#eaeaea;background-color:#eaeaea;" />
+---
 
 ### 🤓 Tech Stack
 
