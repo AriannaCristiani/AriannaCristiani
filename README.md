@@ -27,7 +27,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/07/89/c2/0789c202335c03dd9175faa2f57981e7.gif" alt="about me gif" width="180" />
+      <img src="https://sdmntprnortheu.oaiusercontent.com/files/00000000-d8b8-61f4-85a8-f5fe273d0955/raw?se=2025-06-28T12%3A22%3A48Z&sp=r&sv=2024-08-04&sr=b&scid=c8b82ec8-e25f-5ec9-8dcd-3a240444fec9&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-27T20%3A10%3A27Z&ske=2025-06-28T20%3A10%3A27Z&sks=b&skv=2024-08-04&sig=92hoge694m8SI36uyv5CMmXncJKc6Q6PjPQV/AmjEio%3D" alt="about me gif" width="180" />
     </td>
   </tr>
 </table>
