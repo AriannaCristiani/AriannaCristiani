@@ -1,8 +1,3 @@
-<!-- Import Google Fonts: Nunito -->
-<link href="https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap" rel="stylesheet">
-
-<div align="center" style="max-width: 700px; margin: auto; font-family: 'Nunito', Arial, sans-serif; font-size: 20px;">
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=35&pause=1000&color=67A759&center=true&vCenter=true&width=435&lines=Hi+there!++;I'm+Arianna+Cristiani+" alt="Typing SVG" /></a>
 </p>
@@ -14,11 +9,12 @@
 
 ---
 
+<p>
+  <img src="https://sdmntprnortheu.oaiusercontent.com/files/00000000-d8b8-61f4-85a8-f5fe273d0955/raw?se=2025-06-28T12%3A22%3A48Z&sp=r&sv=2024-08-04&sr=b&scid=c8b82ec8-e25f-5ec9-8dcd-3a240444fec9&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-27T20%3A10%3A27Z&ske=2025-06-28T20%3A10%3A27Z&sks=b&skv=2024-08-04&sig=92hoge694m8SI36uyv5CMmXncJKc6Q6PjPQV/AmjEio%3D" alt="about me" width="280" border-radious="10" align="right" style="margin-left: 24px; margin-bottom: 12px;" />
+</p>
+
 ### 🌸 About Me
 
-<p align="left">
-  <img src="https://sdmntprnortheu.oaiusercontent.com/files/00000000-d8b8-61f4-85a8-f5fe273d0955/raw?se=2025-06-28T12%3A22%3A48Z&sp=r&sv=2024-08-04&sr=b&scid=c8b82ec8-e25f-5ec9-8dcd-3a240444fec9&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-27T20%3A10%3A27Z&ske=2025-06-28T20%3A10%3A27Z&sks=b&skv=2024-08-04&sig=92hoge694m8SI36uyv5CMmXncJKc6Q6PjPQV/AmjEio%3D" alt="about me" width="320" align="right" style="margin-left: 24px; margin-bottom: 12px;" />
-</p>
 <ul>
   <li>I like to think of myself as a creative soul wrapped in developer logic.</li>
   <li>I love designing clean, intuitive user interfaces — where beauty meets functionality.</li>
@@ -31,8 +27,6 @@
 ### 🤓 Tech Stack
 
 #### Languages & Frameworks:
-
-<div style="max-width: 600px; margin:auto;">
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
@@ -52,15 +46,13 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-</div>
-
-<hr style="height:1px;border:none;color:#eaeaea;background-color:#eaeaea;" />
+---
 
 ### ✨ Currently Working On
 
 📝 A personal project: a **digital journal** that blends functionality with delightful UI — built using **React**, **TypeScript**, and a touch of design thinking.
 
-<hr style="height:1px;border:none;color:#eaeaea;background-color:#eaeaea;" />
+---
 
 ### 💌 Let’s Connect!
 
