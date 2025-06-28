@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/YourUsername">
-    <img src="https://readme-typing-svg.demolab.com/demo/?font=Caveat&weight=600&size=40&color=67A759&lines=Hi+there!++I'm+Arianna+Cristiani+🌸;Creative+Dev+%26+UI%2FUX+Designer;Full+Stack+Web+Developer+based+on+code+%2B+design" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=35&pause=1000&color=67A759&center=true&vCenter=true&width=435&lines=Hi+there!++;I'm+Arianna+Cristiani+" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -12,7 +10,7 @@
 
 ---
 
-### 🧠 About Me
+### 🌸 About Me
 
 I like to think of myself as a creative soul wrapped in developer logic.  
 I love designing clean, intuitive user interfaces — where beauty meets functionality.
@@ -22,7 +20,7 @@ Later, I specialized in **UI/UX Design**, because crafting beautiful and effecti
 
 ---
 
-### 🛠️ Tech Stack
+### 🤓 Tech Stack
 
 #### Languages & Frameworks:
 
@@ -46,13 +44,13 @@ Later, I specialized in **UI/UX Design**, because crafting beautiful and effecti
 
 ---
 
-### 🌱 Currently Working On
+### ✨ Currently Working On
 
 📝 A personal project: a **digital journal** that blends functionality with delightful UI — built using **React**, **TypeScript**, and a touch of design thinking.
 
 ---
 
-### 📫 Let’s Connect!
+### 💌 Let’s Connect!
 
 Wanna talk code, design, or just say hi?  
 Reach out on [LinkedIn](#) _(https://www.linkedin.com/in/arianna-cristiani-20552517b/)_ or browse through my projects here on GitHub!
